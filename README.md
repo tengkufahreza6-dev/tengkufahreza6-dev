@@ -1,6 +1,20 @@
-### 🛠️ Tech Stack & Domain Expertise
+# Hi, I'm Tengku Fahreza👋
 
-**Core Technologies & Languages**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tengku-fahreza-0a7bb9395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[email-tengkufahreza6@gmail.com])
+
+## 📌 About Me
+Saya adalah mahasiswa **Ilmu Komputer** dan pengembang perangkat lunak yang berfokus pada **Full-Stack Web Development** serta logika algoritma. Saya memiliki ketertarikan pada perancangan basis data relasional, pengembangan sistem berbasis PHP/Node.js, dan implementasi komputasi numerik dalam aplikasi web interaktif.
+
+- 🎓 **Pendidikan:** S1 Ilmu Komputer
+- 💻 **Fokus Utama:** Web Application Architecture, Relational Database Design, & Applied Algorithms
+- 🛠️ **Environment:** Linux / Windows Development Setup (Git, VS Code, Laragon)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Web Core**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -19,6 +33,9 @@
 
 ---
 
-### 💻 Current Technical Focus
-- 🎯 **Full-stack Web Development:** Merancang aplikasi berbasis PHP/Laravel dan arsitektur basis data relasional.
-- 📐 **Algorithms & Spatial Calculations:** Implementasi integrasi numerik dan pemetaan interaktif pada aplikasi web.
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
